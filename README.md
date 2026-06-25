@@ -1,5 +1,7 @@
 # N-Flix-Insight
 
+URL:- https://n-flix-insight.streamlit.app/
+
 A premium, high-accuracy movie and TV show data analytics and content recommendation engine built using Python and Streamlit. This application applies an explicit weighted attribute scoring strategy via machine learning text vectorization to surface hyper-relevant cinematic matches, wrapped completely in a sleek, custom-styled minimalist black and crimson user interface.
 
 ## 🚀 Key Features
